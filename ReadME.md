@@ -1,5 +1,5 @@
 # WELCOME TO THE DALTON PROJECT
-
+  Auto_Machine_Learning_Tool.pdf file is the complete thesis article, containing my complete research as well as the bibliography. 
 ## ABSTRACT
 
 Machine learning processes require expertise, time and resources in order to

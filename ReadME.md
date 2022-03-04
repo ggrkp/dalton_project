@@ -67,7 +67,7 @@ Select Target Variable  |  Parameter Tuning
 
 ### STEP 1: DOWNLOAD DALTON V 1.0
 
-Just click <a href="https://bit.ly/35JSgOe"> this link</a> or scan the below QR code and navigate to the dropbox project folder to download version 1.0 of the DALTON application.
+Just click <a href="qrco.de/bcpNZ6"> this link</a> or scan the below QR code and navigate to the dropbox project folder to download version 1.0 of the DALTON application.
 <p align="center">
 <img text-align="center" src="./img/DALTON_PROJECT.png"
      alt="Dalton QR Code "

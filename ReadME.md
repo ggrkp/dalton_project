@@ -399,24 +399,24 @@ Run the application:
 
 `tornado=6.1=py38h25fe258_0`
 
-`tqdm=4.60.0=pyhd8ed1ab_0
+`tqdm=4.60.0=pyhd8ed1ab_0`
 
-`tsfresh=0.17.0=py_0
+`tsfresh=0.17.0=py_0`
 
-`typing_extensions=3.7.4.3=py_0
+`typing_extensions=3.7.4.3=py_0`
 
-`urllib3=1.26.4=pyhd8ed1ab_0
+`urllib3=1.26.4=pyhd8ed1ab_0`
 
-`wheel=0.36.2=pyhd3eb1b0_0
+`wheel=0.36.2=pyhd3eb1b0_0`
 
-`xz=5.2.5=h7b6447c_0
+`xz=5.2.5=h7b6447c_0`
 
-`yaml=0.2.5=h516909a_0
+`yaml=0.2.5=h516909a_0`
 
-`zict=2.0.0=py_0
+`zict=2.0.0=py_0`
 
-`zlib=1.2.11=h7b6447c_3
+`zlib=1.2.11=h7b6447c_3`
 
-`zstd=1.4.5=h6597ccf_2 `
+`zstd=1.4.5=h6597ccf_2`
 
 

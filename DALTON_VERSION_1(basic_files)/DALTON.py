@@ -1,4 +1,3 @@
-# yolo1
 import datetime
 # from datetime import datetime, time
 from PyQt5.QtWidgets import QApplication, QWidget, QInputDialog, QLineEdit, QFileDialog
